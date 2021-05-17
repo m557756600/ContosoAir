@@ -1,4 +1,4 @@
-# This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
+[![Build Status](https://dev.azure.com/m557756600/ADO%20Test/_apis/build/status/m557756600.ContosoAir?branchName=master)](https://dev.azure.com/m557756600/ADO%20Test/_build/latest?definitionId=1&branchName=master)
 
 
 # Microsoft.Github CI Demo
